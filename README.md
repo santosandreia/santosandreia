@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @santosandreia
+- Meu email de contato é @andreia.silvados.santos@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a progamar recentemente a linguagem de JavaScript e Scrath
